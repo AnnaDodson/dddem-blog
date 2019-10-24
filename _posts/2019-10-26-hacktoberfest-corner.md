@@ -11,7 +11,7 @@ share: false
 ---
 Although the month of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is almost over, we're going to have a [Hacktoberfest stand at DDD East Midlands today](https://www.dddeastmidlands.com/hacktoberfest/).
 
-As part of this, we're looking at making it easier to contribute while you're here, so simply raise a Pull request to add an image to the folder `assets/img/2019-10-26/`, and it'll automagically get displayed below:
+As part of this, we're looking at making it easier to contribute while you're here, so simply raise a Pull request to add an image to the folder `assets/img/2019-10-26/hacktoberfest-corner/`, and it'll automagically get displayed below:
 
 <section class="contributors_grid">
 {% for image in site.static_files %}
